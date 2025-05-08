@@ -1,6 +1,14 @@
 MIT License
 
 Copyright (c) 2025 md-touhidur-rahman
+If you use this research or code, please cite our paper:
+@inproceedings{rahman2023agrosales,
+  title={Time Series Forecasting of Agricultural Products Sale Using Deep Learning},
+  author={Rahman, Md Touhidur and Khatun, Mst. Eshita and Asha, Archina Mahmuda and Alam, Mohammad Jahangir},
+  booktitle={14th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
+  year={2023},
+  organization={IEEE}
+}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
